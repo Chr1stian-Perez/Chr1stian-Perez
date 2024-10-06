@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy **Christian Pérez**!
 
-<!--
-**Chr1stian-Perez/Chr1stian-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy de **Quito, Ecuador** y actualmente estudio **Ingeniería en Computación** en la [Escuela Politécnica Nacional (EPN)](https://www.epn.edu.ec).
 
-Here are some ideas to get you started:
+💻 **Apasionado por la arquitectura de computadoras** y el desarrollo web, disfruto crear soluciones que combinen eficiencia y elegancia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías con las que trabajo:
+- **Lenguajes:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** React, Redux
+- **Otras habilidades:** Diseño de interfaces, desarrollo de back-end
+
+🌱 En constante aprendizaje de nuevas tecnologías y **optimizando procesos** con un enfoque en **arquitectura eficiente** y escalabilidad.
+
+⚡ **Fun fact:** Cuando no estoy programando, probablemente estoy investigando sobre el **hardware detrás de nuestros sistemas**.
+
+💼 ¿Quieres colaborar? Puedes encontrarme en [LinkedIn](https://www.linkedin.com) o contribuir a mis proyectos aquí mismo en GitHub. 🚀
