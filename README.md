@@ -13,4 +13,4 @@
 
 ⚡ Cuando no estoy programando, probablemente estoy investigando sobre el **hardware detrás de nuestros sistemas**.
 
-💼 ¿Quieres colaborar? Puedes encontrarme en [LinkedIn](https://www.linkedin.com) o contribuir a mis proyectos aquí mismo en GitHub. 
+💼 ¿Quieres colaborar? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/christian-p%C3%A9rez-390442196/) o contribuir a mis proyectos aquí mismo en GitHub. 
