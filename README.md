@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Christian Pérez**!
 
-🎓 Soy de **Quito, Ecuador** y actualmente estudio **Ingeniería en Computación** en la [Escuela Politécnica Nacional (EPN)](https://www.epn.edu.ec).
+🎓 Soy de **Quito, Ecuador** y soy **Ingeniero en Ciencias de la Computación** de la [Escuela Politécnica Nacional (EPN)](https://www.epn.edu.ec).
 
 💻 **Apasionado por la arquitectura de computadoras** y el desarrollo web, disfruto crear soluciones que combinen eficiencia y elegancia.
 
